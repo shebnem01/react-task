@@ -1,0 +1,22 @@
+.count-btn {
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.count-btn span{
+    width: 100%;
+}
+.danger{
+    background-color: red;
+}
+.success{
+    background-color: green;
+}
+.primary{
+    background-color: blue;
+}

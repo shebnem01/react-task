@@ -1,0 +1,13 @@
+
+.card-img-top{
+    height: 300px;
+    object-fit: cover;
+    width:100%;
+}
+.count{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:15px;
+    gap: 15px;
+}
